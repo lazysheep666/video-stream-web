@@ -11,7 +11,7 @@
 - [x] Register
 - [x] Login
 - [x] Session
-- [x] FrontUI
+- [x] UI
 
 ## Usage
 1. Run `initialdb.sql`
